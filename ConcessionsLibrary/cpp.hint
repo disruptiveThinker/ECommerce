@@ -1,0 +1,2 @@
+#define CONCESSIONSLIBRARY_API __declspec(dllexport)
+#define CONCESSIONSLIBRARY_API __declspec(dllimport)

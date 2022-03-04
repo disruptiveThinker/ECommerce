@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\15138\source\repos\ECommerce\x64\Debug\CoreLibrary.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\15138\source\repos\ECommerce\x64\Debug\PaymentGatewayLibrary.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\15138\source\repos\ECommerce\x64\Debug\ProductsLibrary.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\15138\source\repos\ECommerce\x64\Debug\ConcessionsLibrary.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\15138\source\repos\ECommerce\x64\Debug\DeliveryMgmtLibrary.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\15138\source\repos\ECommerce\x64\Debug\PurchaseHistoryLibrary.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\15138\source\repos\ECommerce\x64\Debug\UILibrary.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\15138\source\repos\ECommerce\x64\Debug\ECommerceUI.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

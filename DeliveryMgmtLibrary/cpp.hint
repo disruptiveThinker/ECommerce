@@ -1,0 +1,2 @@
+#define DELIVERYMGMTLIBRARY_API __declspec(dllexport)
+#define DELIVERYMGMTLIBRARY_API __declspec(dllimport)

@@ -1,0 +1,2 @@
+#define PRODUCTSLIBRARY_API __declspec(dllexport)
+#define PRODUCTSLIBRARY_API __declspec(dllimport)

@@ -1,0 +1,128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-03 20:02-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: de <LL@li.org>\n"
+"Language: de \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ECommerceBatch.cpp:26
+msgctxt "batch"
+msgid "Hello World! This is a call from the ECommerce Batch Exe"
+msgstr "German Hello World! This is a call from the ECommerce Batch Exe"
+
+#: ConcessionsLibrary.cpp:41
+msgctxt "start"
+msgid "Concessions Library Calls Start"
+msgstr "German Concessions Library Calls Start"
+
+#: ConcessionsLibrary.cpp:42
+msgctxt "libMsg"
+msgid "This is a message from the Concessions Library"
+msgstr "German This is a message from the Concessions Library"
+
+#: ConcessionsLibrary.cpp:45
+msgctxt "end"
+msgid "Concessions Library Calls End"
+msgstr "German Concessions Library Calls End"
+
+#: CoreLibrary.cpp:41
+msgctxt "start" 
+msgid "Core Library Calls Start"
+msgstr "German Core Library Calls Start"
+
+#: CoreLibrary.cpp:42
+msgctxt "libMsg"
+msgid "This is a message from the Core Library"
+msgstr "German This is a message from the Core Library"
+
+#: CoreLibrary.cpp:43
+msgctxt "end"
+msgid "Core Library Calls End"
+msgstr "German Core Library Calls End"
+
+#: DeliveryMgmtLibrary.cpp:45
+msgctxt "start"
+msgid "Delivery Management Library Calls Start"
+msgstr "German Delivery Management Library Calls Start"
+
+#: DeliveryMgmtLibrary.cpp:46
+msgctxt "libMsg"
+msgid "This is a message from the Delivery Management Library"
+msgstr "German This is a message from the Delivery Management Library"
+
+#: DeliveryMgmtLibrary.cpp:51
+msgctxt "end"
+msgid "Delivery Management Library Calls End"
+msgstr "German Delivery Management Library Calls End"
+
+#: PaymentGatewayLibrary.cpp:41
+msgctxt "start"
+msgid "Payment Gateway Library Calls Start"
+msgstr "German Payment Gateway Library Calls Start"
+
+#: PaymentGatewayLibrary.cpp:42
+msgctxt "libMsg"
+msgid "This is a message from the Payment Gateway Library"
+msgstr "German This is a message from the Payment Gateway Library"
+
+#: PaymentGatewayLibrary.cpp:44
+msgctxt "end"
+msgid "Payment Gateway Library Calls End"
+msgstr "German Payment Gateway Library Calls End"
+
+#: ProductsLibrary.cpp:41
+msgctxt "start"
+msgid "Products Library Calls Start"
+msgstr "German Products Library Calls Start"
+
+#: ProductsLibrary.cpp:42
+msgctxt "libMsg"
+msgid "This is a message from the Products Library"
+msgstr "German This is a message from the Products Library"
+
+#: ProductsLibrary.cpp:44
+msgctxt "end"
+msgid "Products Library Calls End"
+msgstr "German Products Library Calls End"
+
+#: PurchaseHistoryLibrary.cpp:43
+msgctxt "start"
+msgid "Purchase History Library Calls Start"
+msgstr "German Purchase History Library Calls Start"
+
+#: PurchaseHistoryLibrary.cpp:44
+msgctxt "libMsg"
+msgid "This is a message from the Purchase History Library"
+msgstr "German This is a message from the Purchase History Library"
+
+#: PurchaseHistoryLibrary.cpp:48
+msgctxt "end"
+msgid "Purchase History Library Calls End"
+msgstr "German Purchase History Library Calls End"
+
+#: UILibrary.cpp:43
+msgctxt "start"
+msgid "UI Library Calls Start"
+msgstr "German UI Library Calls Start"
+
+#: UILibrary.cpp:44
+msgctxt "libMsg"
+msgid "This is a message from the UI Library"
+msgstr "German This is a message from the UI Library"
+
+#: UILibrary.cpp:48
+msgctxt "end"
+msgid "UI Library Calls End"
+msgstr "German UI Library Calls End"

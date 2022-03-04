@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2b78e632-c35c-432f-82e0-46c9c48d9ac2": {
+      "ProjectGuid": "2b78e632-c35c-432f-82e0-46c9c48d9ac2",
+      "DisplayName": "ECommerce",
+      "ColorIndex": 0
+    },
+    "c88166dd-85f0-4a0f-8f98-593a4f25480d": {
+      "ProjectGuid": "c88166dd-85f0-4a0f-8f98-593a4f25480d",
+      "DisplayName": "ECommerceBatch",
+      "ColorIndex": 1
+    },
+    "0e5d76e4-2514-4440-9c23-4b546d9ad4f6": {
+      "ProjectGuid": "0e5d76e4-2514-4440-9c23-4b546d9ad4f6",
+      "DisplayName": "CoreLibrary",
+      "ColorIndex": 2
+    },
+    "5bbc7a61-7c90-4edf-9a99-47f89b945713": {
+      "ProjectGuid": "5bbc7a61-7c90-4edf-9a99-47f89b945713",
+      "DisplayName": "UILibrary",
+      "ColorIndex": 3
+    },
+    "0f6014a6-c7df-43d0-ac6b-e6af1ba28905": {
+      "ProjectGuid": "0f6014a6-c7df-43d0-ac6b-e6af1ba28905",
+      "DisplayName": "ProductsLibrary",
+      "ColorIndex": 4
+    },
+    "74386be3-6ebc-45d6-8814-fd664a2ff578": {
+      "ProjectGuid": "74386be3-6ebc-45d6-8814-fd664a2ff578",
+      "DisplayName": "PurchaseHistoryLibrary",
+      "ColorIndex": 5
+    },
+    "8c2b7a1f-4d96-40a4-a217-e4dc1c996dac": {
+      "ProjectGuid": "8c2b7a1f-4d96-40a4-a217-e4dc1c996dac",
+      "DisplayName": "ConcessionsLibrary",
+      "ColorIndex": 6
+    },
+    "3d7aaf8c-b04a-44ad-b603-625304d14afb": {
+      "ProjectGuid": "3d7aaf8c-b04a-44ad-b603-625304d14afb",
+      "DisplayName": "DeliveryMgmtLibrary",
+      "ColorIndex": 7
+    },
+    "da282b8f-dca6-41f3-a586-18c754a2b5cd": {
+      "ProjectGuid": "da282b8f-dca6-41f3-a586-18c754a2b5cd",
+      "DisplayName": "PaymentGatewayLibrary",
+      "ColorIndex": 8
+    },
+    "8dcff709-38b0-4d6a-a672-59b69e56373b": {
+      "ProjectGuid": "8dcff709-38b0-4d6a-a672-59b69e56373b",
+      "DisplayName": "ECommerceUI",
+      "ColorIndex": 9
+    },
+    "ef51909c-4804-438a-a25e-84a9ed418930": {
+      "ProjectGuid": "ef51909c-4804-438a-a25e-84a9ed418930",
+      "DisplayName": "ECommerceBatch",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}
